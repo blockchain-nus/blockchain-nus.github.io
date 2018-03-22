@@ -1,0 +1,9 @@
+/*! Place your custom styles here */
+
+.process__item h4 {
+  margin-bottom: 0.3em;
+}
+
+.triptych.border--round img {
+  box-shadow:0 23px 40px rgba(0, 0, 0, 0.2);
+}
