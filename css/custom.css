@@ -7,3 +7,7 @@
 .triptych.border--round img {
   box-shadow:0 23px 40px rgba(0, 0, 0, 0.2);
 }
+
+.list-inline--images.sponsor img {
+  max-height: 7.78571429em;
+}
