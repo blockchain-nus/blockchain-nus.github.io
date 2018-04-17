@@ -11,3 +11,6 @@
 .list-inline--images.sponsor img {
   max-height: 7.78571429em;
 }
+
+.sponsor img {
+  margin-bottom: 30px;
